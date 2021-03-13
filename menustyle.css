@@ -1,0 +1,29 @@
+body {
+	background:url("https://img.freepik.com/foto-gratis/concepto-material-pared-fondo-madera-rasgunado-pared_53876-30226.jpg?size=626&ext=jpg");
+	font-family:"aclonica";
+    
+	
+}
+h1 {
+	text-align: center; 
+   color:white;
+   background-color:red;
+   font-size:100px;
+   color:black;
+}
+
+h2 {
+text-align: center;
+font-family: "Trirong";
+background-color: red;
+color: black;
+}
+
+
+li {
+	color: white;
+	
+}
+h3 {
+	color: white;
+}
